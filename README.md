@@ -103,8 +103,8 @@ Uncomment `#define USE_MQTT` and insert credentials for your MQTT server
 
 You can test this by using for example mosquitto client
 ```shell
-mosquitto_pub -h 192.168.1.xxx -t turtlefeeder/feed -m "1" -u user -P "Password"
+mosquitto_pub -h 192.168.1.xxx -t turtlefeeder/feed -m "1" -u user -P "Password123"
 ```
 
 ## Licence
-TurtleFeederInator is published under the [GPL license](LICENCE) because I believe in open development. The most straightforward way to comply with the license is to make a fork on Github, perform your modifications, and direct users to your modified fork. 
+TurtleFeederFirmware is published under the [GPL license](LICENCE) because I believe in open development. The most straightforward way to comply with the license is to make a fork on Github, perform your modifications, and direct users to your modified fork. 
