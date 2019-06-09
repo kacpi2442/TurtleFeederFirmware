@@ -78,6 +78,7 @@ Uncomment `#define USE_TELEGRAM`, insert your token and change `telegramSecret`.
 #ifdef USE_TELEGRAM
     #define BOTtoken "123456789:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"    // your Bot Token (Get from Botfather)
     #define telegramSecret "MySecret"
+    #define language 0    // [en - 0, pl - 1]
 ```
 
 To be able to use the bot and receive notifications send this command to the bot
