@@ -11,6 +11,7 @@ Firmware dedicated for [TurtleFeederInator](https://github.com/kacpi2442/TurtleF
 * OTA Updates
 
 ## Getting started
+You will need [PlatformIO IDE](https://platformio.org/platformio-ide) or at least [PlatformIO Core](https://platformio.org/install/cli)
 
 Clone respository
 ```shell
